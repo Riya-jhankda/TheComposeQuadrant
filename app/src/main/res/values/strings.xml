@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compose_quadrant</string>
+
+    <string name="heading_lu">Text composable</string>
+    <string name="heading_ld">Row composable</string>
+    <string name="heading_ru">Image composable</string>
+    <string name="heading_rd">column composable</string>
+
+
+    <string name="heading_lut">Displays text and follows Material Design guidelines</string>
+    <string name="heading_ldt">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="heading_rut">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="heading_rdt">A layout composable that places its children in a vertical sequence</string>
+
+</resources>
